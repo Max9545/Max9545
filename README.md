@@ -12,7 +12,7 @@
 
 ## Learning
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img alt="Travis CI" src='https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis'/><img alt="Material UI" src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img alt="Travis CI" src='https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis'/>
 
 
 <!--
