@@ -1,6 +1,11 @@
 ### Hi there 👋
 [![Header](https://avatars.githubusercontent.com/u/67295227?s=120&v=4 "Header")](https://terminal.turing.edu/alumni/750-max-bregman)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Max9545>&theme=<THEME_NAME>" />
+
+
+
+
 ## Main Skills
 
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
