@@ -5,7 +5,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545&repo=gallery-time)](https://github.com/Max9545/gallery-time)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/repo=selector-turing/front_end)](https://github.com/selector-turing/front_end)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545&repo=selector-turing/front_end)](https://github.com/selector-turing/front_end)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max9545&layout=compact)](https://github.com/Max9545/github-readme-stats)
