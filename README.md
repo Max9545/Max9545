@@ -3,11 +3,9 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545&repo=gallery-time)](https://github.com/Max9545/gallery-time)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545&repo=Rancid-Tomatillos)](https://github.com/Max9545/Rancid-Tomatillos)
+//[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545&repo=Rancid-Tomatillos)](https://github.com/Max9545/Rancid-Tomatillos)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffKersting&repo=chatterBox-api)](https://github.com/JeffKersting/chatterBox-api)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max9545&layout=compact)](https://github.com/Max9545/github-readme-stats)
