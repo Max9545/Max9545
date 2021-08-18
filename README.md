@@ -2,6 +2,10 @@
 [![Header](https://avatars.githubusercontent.com/u/67295227?s=120&v=4 "Header")](https://terminal.turing.edu/alumni/750-max-bregman)
 
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545/&repo=gallery-time)](https://github.com/Max9545/gallery-time)
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max9545&theme=<THEME_NAME>" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Max9545&theme=<THEME_NAME>" />
