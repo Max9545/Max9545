@@ -5,7 +5,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545&repo=gallery-time)](https://github.com/Max9545/gallery-time)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max9545&theme=<THEME_NAME>" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max9545&layout=compact)](https://github.com/Max9545/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Max9545&theme=<THEME_NAME>" />
 
