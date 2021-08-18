@@ -25,7 +25,8 @@
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="React Hooks" src='https://hackernoon.com/hn-images/1*-Ijet6kVJqGgul6adezDLQ.png'/>
+<img alt="React Hooks" src='https://img.shields.io/bundlephobia/min/react-async-hook.svg&logoColor=white'/>
+
 <img alt="React Router" src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
 
 ## Learning
