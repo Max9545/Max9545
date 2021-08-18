@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://lh3.googleusercontent.com/proxy/4s553Y7XxM-hw3HIG9zUFt6MJ0FGG_-cl3YojyVncyFqxC0uiZ9bAY2W-kxyL89-9MpuaXWe2GrV0RgbTQXq9oNGXkCRot-Y6Pg "Header")](https://terminal.turing.edu/alumni/750-max-bregman)
+[![Header](https://raw.githubusercontent.com/MartinHeinz "Header")](https://terminal.turing.edu/alumni/750-max-bregman)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545&repo=Rancid-Tomatillos)](https://github.com/Max9545/Rancid-Tomatillos)-->
 
