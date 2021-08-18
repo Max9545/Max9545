@@ -1,17 +1,11 @@
 ### Hi there 👋
 [![Header](https://avatars.githubusercontent.com/u/67295227?s=120&v=4 "Header")](https://terminal.turing.edu/alumni/750-max-bregman)
 
-
-
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545&repo=Rancid-Tomatillos)](https://github.com/Max9545/Rancid-Tomatillos)-->
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max9545&layout=compact)](https://github.com/Max9545/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Max9545&theme=<THEME_NAME>" />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max9545&layout=compact)](https://github.com/Max9545/github-readme-stats)
 
 
 ## Main Skills
