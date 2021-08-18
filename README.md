@@ -3,8 +3,7 @@
 
 
 
-
-//[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545&repo=Rancid-Tomatillos)](https://github.com/Max9545/Rancid-Tomatillos)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Max9545&repo=Rancid-Tomatillos)](https://github.com/Max9545/Rancid-Tomatillos)-->
 
 
 
